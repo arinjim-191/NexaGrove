@@ -18,7 +18,8 @@ font-family: 'Roboto', sans-serif; */
     width: 100%;
     height: auto ;
     background:#fff;
-    padding: 50px 110px;
+
+    padding: 50px 170px;
 }
 .nav-logo{
     /* display: inline-block; */
@@ -28,32 +29,48 @@ font-family: 'Roboto', sans-serif; */
 .nav-bar{
     position: absolute;
     top: 55px;
-    left: 950px;
+    left: 1000px;
    
     align-items: center;
 }
 .nav-bar a {
-    padding-left: 20px;
+    font-size: 20px;
+    margin-left: 20px;
     font-family: Montserrat;
     font-weight: 500;
     color: #333333;
+}
+.nav-bar a:hover{
+    
+   color: #ea1616;
+    border-radius: 20px;
+    transition: 0.5s;
+    
 }
 .nav-logo h2{
     text-transform: capitalize;
 }
 .body-contain{
-    display: inline;
+    
     margin-top: 150px;
-    padding-left: 110px;
+    padding-left: 170px;
 }
 .body-contain h2{
     font-family: 'Playfair Display', serif;
     text-transform: capitalize;
-    padding-right: 840px;
+    padding-right: 940px;
     font-size: 70px;
 }
 .body-contain p{
     margin-top: 20px;
     font-family: Montserrat;
-    font-size: 25px;
+    font-size: 20px;
+}
+.body-contain img{
+    position: absolute;
+    width: 710px;
+    
+    left: 875px;
+    top: 230px;
+    
 }
