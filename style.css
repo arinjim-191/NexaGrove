@@ -21,7 +21,7 @@ font-family: 'Roboto', sans-serif; */
     padding: 50px 110px;
 }
 .nav-logo{
-    display: inline-block;
+    /* display: inline-block; */
     font-family: Montserrat;
     font-weight: bolder;
 }
@@ -40,5 +40,20 @@ font-family: 'Roboto', sans-serif; */
 }
 .nav-logo h2{
     text-transform: capitalize;
-
+}
+.body-contain{
+    display: inline;
+    margin-top: 150px;
+    padding-left: 110px;
+}
+.body-contain h2{
+    font-family: 'Playfair Display', serif;
+    text-transform: capitalize;
+    padding-right: 840px;
+    font-size: 70px;
+}
+.body-contain p{
+    margin-top: 20px;
+    font-family: Montserrat;
+    font-size: 25px;
 }
