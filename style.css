@@ -55,12 +55,14 @@ font-family: 'Roboto', sans-serif; */
     margin-top: 150px;
     padding-left: 170px;
 }
-.body-contain h2{
-    font-family: 'Playfair Display', serif;
-    text-transform: capitalize;
-    padding-right: 940px;
-    font-size: 70px;
-}
+
+    .body-contain h2 {
+        font-family: 'Playfair Display', serif;
+        text-transform: capitalize;
+        padding-right: 700px;
+        font-size: 60px;
+    }
+
 .body-contain p{
     margin-top: 20px;
     font-family: Montserrat;
@@ -72,5 +74,23 @@ font-family: 'Roboto', sans-serif; */
     
     left: 1000px;
     top: 230px;
-    
+}
+
+/* ----bar-contain-- */
+.bar-bck{
+
+    background-color: #F2F2F2;
+    width: 100%;
+    height: 190px;
+
+    align-items: center;
+    text-align: center;
+}
+.bar-bck h2{
+    padding-top: 140px;
+    font-size: 55px;
+}
+.bar-bck h6{
+    padding-top: 5px;
+    font-size: 25px;
 }
