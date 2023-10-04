@@ -81,7 +81,7 @@ font-family: 'Roboto', sans-serif; */
 
     background-color: #F2F2F2;
     width: 100%;
-    height: 270px;
+    height: 400px;
 
     align-items: center;
     text-align: center;
@@ -92,14 +92,22 @@ font-family: 'Roboto', sans-serif; */
     
 
     padding-top: 140px;
+    
     font-size: 50px;
 }
 .bar-bck h6{
     color:#707070;
     font-family: 'Montserrat', sans-serif;
+    padding-bottom: 20px;
    
     padding-top: 5px;
     font-size: 15px;
 }
 .btncolor{
+    font-family: 'Montserrat', sans-serif;
+    color: #F2F2F2;
+   border: none;
+   border-radius: 18px;
     background-color: #FF6884;
+    width: 150px;
+    height: 50px;
