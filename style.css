@@ -19,11 +19,11 @@ font-family: 'Roboto', sans-serif; */
     height: auto ;
     background:#fff;
 
-    padding: 50px 170px;
+    padding: 50px;
 }
 .nav-logo{
     /* display: inline-block; */
-    font-family: Montserrat;
+    font-family: "Montserrat";
     font-weight: bolder;
 }
 .nav-bar{
@@ -53,13 +53,13 @@ font-family: 'Roboto', sans-serif; */
 .body-contain{
     
     margin-top: 150px;
-    padding-left: 170px;
+    
 }
 
     .body-contain h2 {
         font-family: 'Playfair Display', serif;
         text-transform: capitalize;
-        padding-right: 700px;
+        padding-right: 405px;
         font-size: 60px;
     }
 
@@ -101,3 +101,5 @@ font-family: 'Roboto', sans-serif; */
     padding-top: 5px;
     font-size: 15px;
 }
+.btncolor{
+    background-color: #FF6884;
