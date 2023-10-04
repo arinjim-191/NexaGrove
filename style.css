@@ -29,7 +29,7 @@ font-family: 'Roboto', sans-serif; */
 .nav-bar{
     position: absolute;
     top: 55px;
-    left: 1000px;
+    left: 1100px;
    
     align-items: center;
 }
@@ -70,7 +70,7 @@ font-family: 'Roboto', sans-serif; */
     position: absolute;
     width: 710px;
     
-    left: 875px;
+    left: 1000px;
     top: 230px;
     
 }
