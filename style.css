@@ -104,10 +104,23 @@ font-family: 'Roboto', sans-serif; */
     font-size: 15px;
 }
 .btncolor{
+    font-size: 20px;
+
     font-family: 'Montserrat', sans-serif;
     color: #F2F2F2;
-   border: none;
-   border-radius: 18px;
+    border: none;
+    border-radius: 18px;
     background-color: #FF6884;
+
     width: 150px;
     height: 50px;
+
+    transition: 0.2s;
+}
+.btncolor:hover{
+    cursor: pointer;
+
+    width: 155px;
+   
+
+}
