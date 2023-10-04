@@ -81,16 +81,23 @@ font-family: 'Roboto', sans-serif; */
 
     background-color: #F2F2F2;
     width: 100%;
-    height: 190px;
+    height: 270px;
 
     align-items: center;
     text-align: center;
 }
 .bar-bck h2{
+    color:#707070;
+    font-family: 'Playfair Display', serif;
+    
+
     padding-top: 140px;
-    font-size: 55px;
+    font-size: 50px;
 }
 .bar-bck h6{
+    color:#707070;
+    font-family: 'Montserrat', sans-serif;
+   
     padding-top: 5px;
-    font-size: 25px;
+    font-size: 15px;
 }
