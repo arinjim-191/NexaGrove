@@ -137,28 +137,15 @@ font-family: 'Roboto', sans-serif; */
 
 /* <!-- ---accordion content-end-- --> */
 
-/* objects-part-start */
+/* objects-part-star
+t */
+.card-gap-contain{
+    display: inline-block;
+    width: 30%;
+    height: 700px;
+    background:#fff;
+    padding: 50px 50px;
 
-.grid-tabs{
-    width: 100%;
-    height: 700px; 
-    
-    padding: 50px 100px;
-}
-
-.row-tabs{
-    width: 50%;
-    height: 268px;
-    
-    border-radius: 10px;
-    border-color: #ea1616;
-
-    align-items: center;
-    text-align: center;
-
-}
-.row-tabs h4{
-    padding-top: 50px;
 }
 
 /* objects-part-end */
