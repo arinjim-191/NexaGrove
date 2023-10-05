@@ -123,3 +123,16 @@ font-family: 'Roboto', sans-serif; */
     width: 155px;
 }
 /* <!-- bar-items end --> */
+
+/* <!-- ---accordion content-start-- --> */
+
+
+.accord-tabs{
+
+    width: 50%;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.accordion-item h2
+
+/* <!-- ---accordion content-end-- --> */
